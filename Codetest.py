@@ -1,6 +1,6 @@
 print("hello")
-i=int
-int(input("number")
+i=10
+# this is an example
 if i = 10:
   print("ok")
 else:
